@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohd. Suhaib - Special Educator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            float: left;
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        header #branding {
+            float: left;
+        }
+        header #branding h1 {
+            margin: 0;
+        }
+        header nav {
+            float: right;
+            margin-top: 10px;
+        }
+        section {
+            padding: 20px;
+            margin-top: 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>Mohd. Suhaib</h1>
+                <h2>Special Educator</h2>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#about">About Me</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#experience">Professional Experience</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about" class="container">
+        <h2>About Me</h2>
+        <p>I am Mohd. Suhaib, a dedicated Special Educator currently posted at MCD Pratibha School Chauhan Bangar Hindi-II. My mission is to provide inclusive and supportive education to all students, especially those with special needs. With a strong educational background and a passion for teaching, I strive to make a positive impact on my students' lives.</p>
+    </section>
+
+    <section id="education" class="container">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>B.A Degree:</strong> Completed from Indira Gandhi National Open University, New Delhi</li>
+            <li><strong>D.Ed.Spl.Ed(ID):</strong> Completed from Amar Jyoti Rehabilitation and Research Centre, Karkardooma, New Delhi</li>
+            <li><strong>B.Ed.SE.-HI:</strong> Completed from UPRTOU, Prayagraj</li>
+        </ul>
+    </section>
+
+    <section id="experience" class="container">
+        <h2>Professional Experience</h2>
+        <p>Currently, I am working as a Special Educator at MCD Pratibha School Chauhan Bangar Hindi-II, where I focus on creating an inclusive learning environment for students with diverse needs.</p>
+        <p>Previously, I worked with Huda Modern Public Secondary School, New Jafrabad, Delhi. During my tenure, I also served as Deputy Superintendent in CBSE Annual Examination, NIOS Examination, and various other related roles.</p>
+    </section>
+
+    <section id="contact" class="container">
+        <h2>Contact</h2>
+        <p>You can reach me at <strong>suhaib.the.special.educator@gmail.com</strong> for any inquiries or further information.</p>
+    </section>
+
+    <footer>
+        <p>Mohd. Suhaib &copy; 2024</p>
+    </footer>
+</body>
+</html>
